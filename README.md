@@ -1,2 +1,2 @@
-# COVID19-Analysis
-This project uses historical data related to COVID-19 
+# Capstone Project
+This Repository works on a capstone project of the IBM Data Science Professional Certificate
